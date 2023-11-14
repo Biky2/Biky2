@@ -21,7 +21,7 @@ I'm passionate about exploring the intersection of technology and creativity, wi
 
 I'm always eager to expand my knowledge and skills. I'm currently learning:
 
-💻 **TensorFlow:** Deep learning framework for building AI models  # still learning
+💻 **TensorFlow:** Deep learning framework for building AI models  **still learning**
 
 🚀 **JavaScript:** Versatile programming language for web development and beyond
 
