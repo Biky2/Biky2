@@ -21,7 +21,7 @@ I'm passionate about exploring the intersection of technology and creativity, wi
 
 I'm always eager to expand my knowledge and skills. I'm currently learning:
 
-Flutter :**framework  
+**Flutter :**framework 
 
 📚 **Data Structures and Algorithms:** Foundations of efficient problem-solving
 
