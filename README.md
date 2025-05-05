@@ -1,44 +1,73 @@
-# Welcome to Biky Dev's Profile
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00A8E8&width=435&lines=Welcome+to+Biky+Dev's+Profile! 👋" alt="Typing SVG">
+</p>
 
-👋 Hi, I'm @Biky2!
+<p align="center">
+  <a href="https://github.com/Biky2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:deobiky@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  </p>
 
+---
 
-## Interests
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/about/about.svg" width="30" height="30" style="vertical-align: middle;"> About Me
 
-I'm passionate about exploring the intersection of technology and creativity, with a particular interest in:
+👋 Hi, I'm @Biky2! A curious explorer passionate about the exciting intersection of technology and creativity. I'm on a continuous learning journey, eager to expand my skills and contribute to innovative projects.
 
-🔍 **Artificial Intelligence:** I'm fascinated by the potential of AI to transform industries and solve complex problems.
+---
 
-🎨 **Creative Coding:** I enjoy using code to create interactive art, animations, and generative art.
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/star/star-original.svg" width="30" height="30" style="vertical-align: middle;"> Interests
 
-🎮 **Game Development:** I'm intrigued by the process of crafting immersive gaming experiences.
+I'm particularly fascinated by:
 
-🚀    I'm excited to **learn new tech**! 🧠 I'm always on the lookout for new ways to **improve** my skills and knowledge. 
-      💻 I'm especially interested in learning about new programming languages, frameworks, and tools. 
-      🤝 **I'm always open to collaboration and learning from others.** 
+- <img src="https://img.shields.io/badge/Artificial%20Intelligence-lightgrey?style=flat-square&logo=artificial-intelligence&logoColor=black" alt="AI"> **Artificial Intelligence:** Exploring its potential to solve complex problems and transform industries.
+- <img src="https://img.shields.io/badge/Creative%20Coding-lightgrey?style=flat-square&logo=code&logoColor=black" alt="Creative Coding"> **Creative Coding:** Using code to generate interactive art, visualizations, and engaging animations.
+- <img src="https://img.shields.io/badge/Game%20Development-lightgrey?style=flat-square&logo=gamepad&logoColor=black" alt="Game Development"> **Game Development:** Intrigued by the process of designing and building immersive gaming experiences.
+- 🚀 Keen to learn new technologies and frameworks!
+- 🧠 Always seeking ways to improve my coding skills and knowledge.
+- 💻 Especially interested in diving deeper into new programming languages, cutting-edge frameworks, and powerful development tools.
+- 🤝 Open to collaboration and eager to learn from the diverse experiences of others in the tech community.
 
-## Learning Journey
+---
 
-I'm always eager to expand my knowledge and skills. I'm currently learning:
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" height="30" style="vertical-align: middle;"> Learning Journey
 
-👉 **Flutter :**  Framework  and django for backend 
+Currently focused on expanding my expertise in:
 
-📚 **Data Structures and Algorithms:** Foundations of efficient problem-solving
+- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> **Flutter:** Building beautiful and performant cross-platform applications for mobile, web, and desktop.
+- <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> **Django:** Developing robust and scalable backend applications using the power of Python.
+- 📚 **Data Structures and Algorithms:** Strengthening the fundamental building blocks for efficient problem-solving and software design.
 
-## Collaboration Opportunities
+---
 
-I'm always open to collaborating on exciting projects. If you're working on something that aligns with my interests, I'd love to hear from you!
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handshake/handshake-original.svg" width="30" height="30" style="vertical-align: middle;"> Collaboration
 
-## Get in Touch
+I'm enthusiastic about collaborating on exciting projects that align with my interests. If you have an interesting idea or are looking for a collaborator, I'd love to connect and explore the possibilities!
 
-Feel free to reach out to me via:
+---
 
-✉️ Email:deobiky@gmail.com
+### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/connectdevelop/connectdevelop-original.svg" width="30" height="30" style="vertical-align: middle;"> Get in Touch
 
-💬 GitHub: [@Biky2](https://github.com/Biky2)
+Feel free to reach out!
 
-I look forward to connecting with fellow tech enthusiasts and exploring new frontiers together.
+- ✉️ **Email:** <a href="mailto:deobiky@gmail.com">deobiky@gmail.com</a>
+- 💬 **GitHub:** <a href="https://github.com/Biky2" target="_blank">@Biky2</a>
 
-Sincerely,
+I look forward to connecting with fellow tech enthusiasts and embarking on new learning adventures together!
 
-Biky Dev
+---
+
+<p align="center">
+  <a href="https://github.com/Biky2">
+    <img alt="Biky2's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Biky2&show_icons=true&theme=dracula" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Biky2">
+    <img alt="Biky2's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Biky2&theme=dracula" />
+  </a>
+</p>
