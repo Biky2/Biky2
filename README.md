@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00A8E8&width=435&lines=Welcome+to+Biky+Dev's+Profile! 👋" alt="Typing SVG">
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Biky2" target="_blank">
