@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <a href="https://github.com/Biky2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -66,55 +68,4 @@ I look forward to connecting with fellow tech enthusiasts and embarking on new l
   <a href="https://github.com/Biky2">
     <img alt="Biky2's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Biky2&theme=dracula" />
   </a>
-</p>
-
----
-
-<!-- 🔥 ADDED CONTENT BELOW (kept original intact) -->
-
-### 🚀 Extended Focus Areas  
-
-Expanding into the fields of **AI Engineering**, **Backend Development**, and **Full-Stack Systems**:
-
-- 🤖 **Machine Learning & Deep Learning:** Building intelligent models using **TensorFlow**, **Keras**, and **PyTorch**.  
-- ⚙️ **Backend APIs & Microservices:** Crafting scalable backends with **Node.js**, **Express**, **Django**, and **FastAPI**.  
-- ⚛️ **Frontend Development:** Creating responsive, modern web apps using **React**, **Next.js**, **TypeScript**, and **SCSS Modules**.  
-- 💡 **LLMs & RAG Systems:** Implementing **LangChain**, **OpenAI APIs**, and **Vector Databases** for retrieval-augmented generation.  
-- ☁️ **Deployment & Cloud:** Dockerized applications and CI/CD deployment on **Vercel**, **Render**, and **AWS**.  
-
----
-
-### 🛠️ Tech Stack  
-
-**Languages:**  
-Python • JavaScript • TypeScript • SQL  
-
-**Frontend:**  
-React • Next.js • Tailwind • SCSS • HTML5  
-
-**Backend:**  
-Node.js • Express • Django • FastAPI  
-
-**AI / ML:**  
-TensorFlow • Keras • PyTorch • LangChain • OpenAI • Scikit-learn  
-
-**Databases:**  
-PostgreSQL • MongoDB  
-
-**Tools & Platforms:**  
-Git • Docker • Postman • VS Code • Vercel • AWS  
-
----
-
-### 🌱 Ongoing Learning  
-
-- 🧩 **Next.js Migration:** Converting React + Vite projects into optimized Next.js applications.  
-- 🧠 **RAG Pipelines:** Building intelligent assistants that combine **LLMs** with context retrieval.  
-- 📚 **Data Structures & Algorithms:** Strengthening core problem-solving for system design interviews.  
-- 🔍 **Clean Architecture & Design Patterns:** Writing maintainable and testable codebases.  
-
----
-
-<p align="center">
-  <i>“Keep learning, keep building, and keep pushing the boundaries of what’s possible.”</i>
 </p>
