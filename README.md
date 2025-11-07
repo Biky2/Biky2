@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://github.com/Biky2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -7,54 +5,80 @@
   <a href="mailto:deobiky@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  </p>
+</p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/about/about.svg" width="30" height="30" style="vertical-align: middle;"> About Me
+### 🧑‍💻 About Me  
 
-👋 Hi, I'm @Biky2! A curious explorer passionate about the exciting intersection of technology and creativity. I'm on a continuous learning journey, eager to expand my skills and contribute to innovative projects.
+👋 Hi, I'm **@Biky2**!  
+A passionate **AI & Full-Stack Developer** exploring how creativity and technology can shape smarter and more engaging digital experiences.  
+I’m on a continuous learning journey — from building intelligent systems to crafting seamless frontends — and love turning ideas into real products.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/star/star-original.svg" width="30" height="30" style="vertical-align: middle;"> Interests
+### 🌟 Interests  
 
 I'm particularly fascinated by:
 
-- <img src="https://img.shields.io/badge/Artificial%20Intelligence-lightgrey?style=flat-square&logo=artificial-intelligence&logoColor=black" alt="AI"> **Artificial Intelligence:** Exploring its potential to solve complex problems and transform industries.
-- <img src="https://img.shields.io/badge/Creative%20Coding-lightgrey?style=flat-square&logo=code&logoColor=black" alt="Creative Coding"> **Creative Coding:** Using code to generate interactive art, visualizations, and engaging animations.
-- <img src="https://img.shields.io/badge/Game%20Development-lightgrey?style=flat-square&logo=gamepad&logoColor=black" alt="Game Development"> **Game Development:** Intrigued by the process of designing and building immersive gaming experiences.
-- 🚀 Keen to learn new technologies and frameworks!
-- 🧠 Always seeking ways to improve my coding skills and knowledge.
-- 💻 Especially interested in diving deeper into new programming languages, cutting-edge frameworks, and powerful development tools.
-- 🤝 Open to collaboration and eager to learn from the diverse experiences of others in the tech community.
+- 🤖 **Artificial Intelligence:** Exploring how ML and LLMs can solve complex problems and automate tasks.  
+- ⚛️ **Full-Stack Development:** Combining **React**, **Next.js**, **Node.js**, and **TypeScript** to build scalable web apps.  
+- 📱 **Flutter:** Creating beautiful, fast, and cross-platform mobile experiences.  
+- 💡 **LangChain & LLMs:** Integrating large language models into real-world AI systems using **RAG pipelines**.  
+- 🚀 Constantly learning new frameworks, architectures, and design patterns to enhance performance and user experience.  
+- 🤝 Open to collaborations and always eager to share, learn, and innovate within the tech community.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30" height="30" style="vertical-align: middle;"> Learning Journey
+### 📚 Learning Journey  
 
 Currently focused on expanding my expertise in:
 
-- <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> **Flutter:** Building beautiful and performant cross-platform applications for mobile, web, and desktop.
-- <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> **Django:** Developing robust and scalable backend applications using the power of Python.
-- 📚 **Data Structures and Algorithms:** Strengthening the fundamental building blocks for efficient problem-solving and software design.
+- 🧠 **Machine Learning & Deep Learning:** Model training and fine-tuning using **TensorFlow**, **Keras**, and **PyTorch**.  
+- 🧩 **RAG Systems:** Building retrieval-augmented generation pipelines with **LangChain** and **OpenAI APIs**.  
+- ⚙️ **Next.js Migration:** Modernizing Vite + React projects into optimized **Next.js** apps with **TypeScript** and **SCSS Modules**.  
+- 📱 **Flutter Development:** Building cross-platform apps for Android, iOS, and Web.  
+- 📚 **Data Structures & Algorithms:** Strengthening logic and problem-solving fundamentals.  
+- ☁️ **Cloud & Deployment:** Using **Docker**, **Vercel**, and **AWS** for production-ready apps.
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handshake/handshake-original.svg" width="30" height="30" style="vertical-align: middle;"> Collaboration
+### 🛠️ Tech Stack  
 
-I'm enthusiastic about collaborating on exciting projects that align with my interests. If you have an interesting idea or are looking for a collaborator, I'd love to connect and explore the possibilities!
+**Languages:**  
+Python • JavaScript • TypeScript • SQL  
+
+**Frontend:**  
+React • Next.js • Tailwind • SCSS • Flutter • HTML5  
+
+**Backend:**  
+Node.js • Express • FastAPI  
+
+**AI / ML:**  
+TensorFlow • Keras • PyTorch • LangChain • OpenAI • Scikit-learn  
+
+**Databases:**  
+PostgreSQL • MongoDB  
+
+**Tools & Platforms:**  
+Git • Docker • Postman • VS Code • Vercel • AWS  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/connectdevelop/connectdevelop-original.svg" width="30" height="30" style="vertical-align: middle;"> Get in Touch
+### 🤝 Collaboration  
 
-Feel free to reach out!
+I’m enthusiastic about working on **AI-powered**, **full-stack**, or **cross-platform** projects that combine innovation and real-world impact.  
+If you have something exciting in mind — let’s connect and bring it to life together!
 
-- ✉️ **Email:** <a href="mailto:deobiky@gmail.com">deobiky@gmail.com</a>
-- 💬 **GitHub:** <a href="https://github.com/Biky2" target="_blank">@Biky2</a>
+---
 
-I look forward to connecting with fellow tech enthusiasts and embarking on new learning adventures together!
+### 📬 Get in Touch  
+
+- ✉️ **Email:** [deobiky@gmail.com](mailto:deobiky@gmail.com)  
+- 💬 **GitHub:** [@Biky2](https://github.com/Biky2)  
+- 🌐 **LinkedIn:** [linkedin.com/in/BikyDev](https://linkedin.com/in/BikyDev)  
+
+Let’s collaborate, learn, and build something extraordinary 🚀  
 
 ---
 
@@ -68,4 +92,10 @@ I look forward to connecting with fellow tech enthusiasts and embarking on new l
   <a href="https://github.com/Biky2">
     <img alt="Biky2's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Biky2&theme=dracula" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Keep learning, keep building, and keep pushing the boundaries of what’s possible.”</i>
 </p>
