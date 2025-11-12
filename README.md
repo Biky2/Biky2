@@ -76,7 +76,7 @@ If you have something exciting in mind — let’s connect and bring it to life 
 
 - ✉️ **Email:** [deobiky@gmail.com](mailto:deobiky@gmail.com)  
 - 💬 **GitHub:** [@Biky2](https://github.com/Biky2)  
-- 🌐 **LinkedIn:** [linkedin.com/in/BikyDev]([https://linkedin.com/in/BikyDev](https://www.linkedin.com/in/dev-biky/))  
+- 🌐 **LinkedIn:** [linkedin.com/in/BikyDev](https://www.linkedin.com/in/dev-biky/)  
 
 Let’s collaborate, learn, and build something extraordinary 🚀  
 
