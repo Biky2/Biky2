@@ -1,101 +1,113 @@
 <p align="center">
   <a href="https://github.com/Biky2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:deobiky@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/dev-biky/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<h1 align="center">Hi, I'm Biky 👋</h1>
+
+<p align="center">
+AI Engineer • Full-Stack Developer • Blockchain Explorer  
+Building intelligent systems & scalable digital products.
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
+## 🚀 About Me
 
-👋 Hi, I'm **@Biky2**!  
-A passionate **AI & Full-Stack Developer** exploring how creativity and technology can shape smarter and more engaging digital experiences.  
-I’m on a continuous learning journey — from building intelligent systems to crafting seamless frontends — and love turning ideas into real products.
+I'm a developer who loves building things that *actually matter*.  
+From AI-powered systems to full-stack applications and decentralized solutions, I enjoy turning complex ideas into clean, working products.
 
----
+I don’t just write code — I design systems, optimize performance, and think long-term scalability.
 
-### 🌟 Interests  
-
-I'm particularly fascinated by:
-
-- 🤖 **Artificial Intelligence:** Exploring how ML and LLMs can solve complex problems and automate tasks.  
-- ⚛️ **Full-Stack Development:** Combining **React**, **Next.js**, **Node.js**, and **TypeScript** to build scalable web apps.  
-- 📱 **Flutter:** Creating beautiful, fast, and cross-platform mobile experiences.  
-- 💡 **LangChain & LLMs:** Integrating large language models into real-world AI systems using **RAG pipelines**.  
-- 🚀 Constantly learning new frameworks, architectures, and design patterns to enhance performance and user experience.  
-- 🤝 Open to collaborations and always eager to share, learn, and innovate within the tech community.
+Currently focused on:
+- 🧠 Artificial Intelligence & LLM-powered applications  
+- 🌐 Full-stack architecture with modern web technologies  
+- ⛓️ Blockchain & decentralized applications  
+- ☁️ Cloud-native and production-ready deployments  
 
 ---
 
-### 📚 Learning Journey  
+## 🧠 What I’m Working On
 
-Currently focused on expanding my expertise in:
-
-- 🧠 **Machine Learning & Deep Learning:** Model training and fine-tuning using **TensorFlow**, **Keras**, and **PyTorch**.  
-- 🧩 **RAG Systems:** Building retrieval-augmented generation pipelines with **LangChain** and **OpenAI APIs**.  
-- ⚙️ **Next.js Migration:** Modernizing Vite + React projects into optimized **Next.js** apps with **TypeScript** and **SCSS Modules**.  
-- 📱 **Flutter Development:** Building cross-platform apps for Android, iOS, and Web.  
-- 📚 **Data Structures & Algorithms:** Strengthening logic and problem-solving fundamentals.  
-- ☁️ **Cloud & Deployment:** Using **Docker**, **Vercel**, and **AWS** for production-ready apps.
+- Building **AI systems with RAG pipelines**
+- Experimenting with **LLMs & autonomous agents**
+- Developing scalable apps using **Next.js + TypeScript**
+- Exploring **smart contracts & Web3 integrations**
+- Strengthening problem-solving with advanced DSA
 
 ---
 
-### 🛠️ Tech Stack  
+## ⛓️ Blockchain Interests
 
-**Languages:**  
-Python • JavaScript • TypeScript • SQL  
+- Smart Contracts (Solidity)
+- Web3.js / Ethers.js integrations
+- DeFi & decentralized app architecture
+- Wallet authentication & on-chain interactions
+- Exploring Ethereum ecosystem & Layer 2 solutions
 
-**Frontend:**  
-React • Next.js • Tailwind • SCSS • Flutter • HTML5  
+---
 
-**Backend:**  
+## 🛠 Tech Stack
+
+### 💻 Languages
+Python • JavaScript • TypeScript • SQL • Solidity  
+
+### 🎨 Frontend
+React • Next.js • Tailwind CSS • SCSS • Flutter  
+
+### ⚙️ Backend
 Node.js • Express • FastAPI  
 
-**AI / ML:**  
-TensorFlow • Keras • PyTorch • LangChain • OpenAI • Scikit-learn  
+### 🤖 AI / ML
+TensorFlow • Keras • PyTorch • Scikit-learn  
+LangChain • OpenAI APIs • RAG Architecture  
 
-**Databases:**  
+### 🗄 Databases
 PostgreSQL • MongoDB  
 
-**Tools & Platforms:**  
-Git • Docker • Postman • VS Code • Vercel • AWS  
+### ☁️ DevOps & Tools
+Docker • Git • AWS • Vercel • Postman • VS Code  
 
 ---
 
-### 🤝 Collaboration  
+## 🤝 Open to Collaborate On
 
-I’m enthusiastic about working on **AI-powered**, **full-stack**, or **cross-platform** projects that combine innovation and real-world impact.  
-If you have something exciting in mind — let’s connect and bring it to life together!
+- AI-powered SaaS products  
+- Full-stack production applications  
+- Blockchain / Web3 projects  
+- Startup ideas with real-world impact  
 
----
-
-### 📬 Get in Touch  
-
-- ✉️ **Email:** [deobiky@gmail.com](mailto:deobiky@gmail.com)  
-- 💬 **GitHub:** [@Biky2](https://github.com/Biky2)  
-- 🌐 **LinkedIn:** [linkedin.com/in/BikyDev](https://www.linkedin.com/in/dev-biky/)  
-
-Let’s collaborate, learn, and build something extraordinary 🚀  
+If you're building something ambitious — I’m interested.
 
 ---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Biky2">
-    <img alt="Biky2's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Biky2&show_icons=true&theme=dracula" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Biky2&show_icons=true&theme=dracula" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Biky2">
-    <img alt="Biky2's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Biky2&theme=dracula" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biky2&theme=dracula" />
 </p>
 
 ---
 
+## 📬 Let's Connect
+
+- 📩 Email: **deobiky@gmail.com**
+- 💻 GitHub: **github.com/Biky2**
+- 🔗 LinkedIn: **linkedin.com/in/dev-biky/**
+
+---
+
 <p align="center">
-  <i>“Keep learning, keep building, and keep pushing the boundaries of what’s possible.”</i>
+  <i>Building the future with AI, Web, and Blockchain.</i>
 </p>
