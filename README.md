@@ -12,21 +12,21 @@
 
 # 🧠 Executive Summary
 
-AI Systems & Distributed Infrastructure Engineer focused on building **secure, scalable, production-grade software**.
+AI Systems & Distributed Infrastructure Engineer building **secure, scalable, production-grade software**.
 
-I specialize in:
+Focused on:
 
 - LLM-powered AI architectures  
-- High-performance full-stack systems  
-- Smart contract development & security  
-- Cloud-native distributed infrastructure  
+- High-performance distributed backends  
+- Smart contract security engineering  
+- Cloud-native system design  
 
 Engineering mindset:
 
 - Design for 10x scale  
 - Assume adversarial environments  
-- Prioritize long-term maintainability  
-- Optimize for performance and reliability  
+- Optimize for reliability & performance  
+- Build for long-term maintainability  
 
 ---
 
@@ -34,7 +34,8 @@ Engineering mindset:
 
 ### Scalable AI Platform Blueprint
 
-Client → Next.js  
+Client  
+→ Next.js Frontend  
 → API Gateway  
 → FastAPI / Node Services  
 → LLM Orchestration Layer  
@@ -42,52 +43,31 @@ Client → Next.js
 → PostgreSQL  
 → Async Background Workers  
 
-### Core Design Principles
+### Core Principles
 
-- Stateless services  
+- Stateless service layers  
 - Horizontal scalability  
 - Structured logging & observability  
-- Intelligent caching layers  
-- Graceful degradation strategies  
+- Intelligent caching strategies  
 - Secure authentication boundaries  
+- Graceful degradation patterns  
 
 ---
 
 # 🛡 Blockchain & Smart Contract Security
 
-Security-first Web3 engineering approach:
+Security-first Web3 engineering:
 
 - Reentrancy protection (Checks-Effects-Interactions)  
 - Role-based access control  
-- Upgradeable proxy contract patterns  
-- Gas-efficient logic design  
+- Upgradeable proxy patterns  
+- Gas-efficient contract logic  
 - Flash-loan exploit awareness  
-- Front-running mitigation strategies  
+- Front-running mitigation  
 - Signature replay protection  
 - Audit-style vulnerability modeling  
 
 Smart contracts are treated as immutable financial infrastructure.
-
----
-
-# 🛡 Security Audit Simulation Project
-
-### Web3 Lending Protocol Review
-
-Conducted structured security evaluation covering:
-
-- Access control misconfigurations  
-- Oracle manipulation vectors  
-- Liquidation logic edge cases  
-- Reentrancy exposure  
-- Economic attack surface modeling  
-
-Methodology:
-
-- Manual threat modeling  
-- Static analysis tools  
-- Transaction simulations  
-- Attack vector enumeration  
 
 ---
 
@@ -98,22 +78,22 @@ Methodology:
 - ERC20 staking contract  
 - Time-locked withdrawals  
 - Reward emission logic  
-- Gas-optimized distribution model  
-- Wallet authentication (Ethers.js)  
+- Gas-optimized distribution  
+- Web3 wallet authentication  
 - Event-driven UI updates  
 
 Architecture:
 
-Solidity → Next.js → Web3 → Secure transaction handling  
+Solidity → Next.js → Web3 Integration → Secure transaction handling  
 
-Focus: security, efficiency, predictable token economics.
+Focus: security, efficiency, predictable economics.
 
 ---
 
 # 🧠 Engineering Philosophy
 
 1. Security > Speed  
-2. Architecture > Hacks  
+2. Architecture > Shortcuts  
 3. Scale must be designed  
 4. Simplicity over cleverness  
 5. Observability is mandatory  
@@ -161,15 +141,15 @@ Docker • AWS • CI/CD
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biky2&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biky2&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-# 📡 Live Activity Graph
+# 📡 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biky2&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biky2&theme=react-dark&hide_border=true" />
 </p>
 
 ---
