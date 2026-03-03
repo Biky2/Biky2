@@ -123,11 +123,15 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 
 ---
 
-# 📡 Activity & Contribution Graph
+# 📡 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biky2&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+# 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Biky2/Biky2/output/github-contribution-grid-snake-dark.svg" />
