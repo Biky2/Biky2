@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  <!-- Animated badges for AI, Full-Stack, Blockchain -->
-  <img src="https://img.shields.io/badge/AI-Deep%20Learning-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full-Stack-React/Next.js-green?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-Beginner-neon?style=for-the-badge&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web3-Learning-purple?style=for-the-badge&logo=solidity&logoColor=white" />
+  <!-- Animated Neon FAANG-Ready Badges -->
+  <img src="https://img.shields.io/badge/AI-Expert-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full-Stack-React%20%7C%20Next.js-green?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-Learner-neon?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-Beginner-purple?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAANG-Ready-red?style=for-the-badge&logo=amazon&logoColor=white" />
 </p>
 
 ---
@@ -20,7 +21,7 @@
 
 Hi, I’m **Biky Dev** 👋 — an **AI Systems Engineer & Full-Stack Developer**, exploring **Blockchain & Web3** while building **secure, scalable, and production-grade applications**.  
 
-I am focused on creating **intelligent systems**, **distributed architectures**, and **modern web & mobile apps**, and I aim to break into **top-tier FAANG teams** with impactful projects.
+I focus on creating **intelligent systems**, **distributed architectures**, and **modern web & mobile apps**, with the goal of joining **FAANG-level engineering teams**.
 
 **Specialties & Focus Areas:**
 
