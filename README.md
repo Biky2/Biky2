@@ -9,7 +9,7 @@
 <p align="center">
   <!-- Animated Neon FAANG-Ready Badges -->
   <img src="https://img.shields.io/badge/AI-Expert-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
-![Full-Stack Badge](https://img.shields.io/badge/Full--Stack-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+<img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockchain-Learner-neon?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-Beginner-purple?style=for-the-badge&logo=solidity&logoColor=white" />
 
