@@ -166,3 +166,10 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 <p align="center">
 Secure, Scalable & FAANG-Ready | AI • Full-Stack • Blockchain • Web3
 </p>
+
+
+
+---
+
+### 🏷️ Technical Focus & Expertise
+`ai` • `llm` • `python` • `flutter` • `langchain` • `freelancer` • `generative-ai` • `rag` • `nextjs` • `fullstack` • `blockchain` • `web3` • `solidity` • `react` • `typescript` • `smart-contracts` • `mobile-development` • `consultant` • `scalability` • `software-engineering`
