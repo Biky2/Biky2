@@ -1,128 +1,104 @@
-<!-- ===================== CYBERPUNK HEADER ===================== -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Biky%20Dev&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Distributed%20Architecture%20%7C%20Blockchain%20Security&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Biky%20Dev&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Blockchain%20Beginner&descAlignY=60&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Secure.+Scalable.+Production-Grade.;AI+%7C+Distributed+Systems+%7C+Web3+Security;Built+for+Scale.+Designed+for+Adversarial+Environments."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Secure.+Scalable.+Production-Grade.;AI+%7C+Full-Stack+%7C+Blockchain+%7C+Web3;Learning+Web3+&+Smart+Contracts."/>
+</p>
+
+<p align="center">
+  <!-- Animated badges for AI, Full-Stack, Blockchain -->
+  <img src="https://img.shields.io/badge/AI-Deep%20Learning-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full-Stack-React/Next.js-green?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-Beginner-neon?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-Learning-purple?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 ---
 
-# 🧠 Executive Summary
+# 🧑‍💻 About Me
 
-AI Systems & Distributed Infrastructure Engineer building **secure, scalable, production-grade software**.
+Hi, I’m **Biky Dev** 👋 — an **AI Systems Engineer & Full-Stack Developer**, exploring **Blockchain & Web3** while building **secure, scalable, and production-grade applications**.  
 
-Focused on:
+I am focused on creating **intelligent systems**, **distributed architectures**, and **modern web & mobile apps**, and I aim to break into **top-tier FAANG teams** with impactful projects.
 
-- LLM-powered AI architectures  
-- High-performance distributed backends  
-- Smart contract security engineering  
-- Cloud-native system design  
+**Specialties & Focus Areas:**
 
-Engineering mindset:
+- 🤖 **AI & Machine Learning:** LLMs, LangChain, RAG pipelines, TensorFlow, PyTorch  
+- ⚛️ **Full-Stack Web Development:** React, Next.js, Node.js, TypeScript, Tailwind, SCSS  
+- 📱 **Flutter & Mobile Apps:** Cross-platform, high-performance UI/UX  
+- ⛓ **Blockchain & Web3:** Beginner in Solidity, smart contracts, Ethereum, DeFi  
+- ☁️ **Cloud & DevOps:** Docker, AWS, Vercel, CI/CD  
 
-- Design for 10x scale  
-- Assume adversarial environments  
-- Optimize for reliability & performance  
-- Build for long-term maintainability  
+---
+
+# 🌟 Learning & Growth
+
+- 🧠 **AI & LLMs:** Model training, fine-tuning, and deployment  
+- 🧩 **RAG Systems & LangChain:** Intelligent knowledge retrieval  
+- ⚙️ **Next.js & Frontend Optimization:** Performance-first, scalable architectures  
+- 📱 **Flutter Apps:** Beautiful, fast, cross-platform experiences  
+- ⛓ **Blockchain & Smart Contracts:** Solidity, ERC20, Web3.js/Ethers.js, DeFi experiments  
+- 📚 **Data Structures & Algorithms:** Problem-solving for FAANG readiness  
 
 ---
 
 # 🔥 System Design & Architecture
 
-### Scalable AI Platform Blueprint
+### Scalable Full-Stack + AI Blueprint
 
-Client  
-→ Next.js Frontend  
-→ API Gateway  
-→ FastAPI / Node Services  
-→ LLM Orchestration Layer  
-→ Vector Database (RAG)  
-→ PostgreSQL  
-→ Async Background Workers  
+Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Orchestration → Vector DB → PostgreSQL → Async Workers  
 
-### Core Principles
+**Core Principles:**
 
-- Stateless service layers  
-- Horizontal scalability  
+- Stateless services & horizontal scalability  
 - Structured logging & observability  
-- Intelligent caching strategies  
-- Secure authentication boundaries  
-- Graceful degradation patterns  
+- Intelligent caching & performance optimization  
+- Secure authentication & graceful degradation  
+- Designed for FAANG-level production systems  
 
 ---
 
-# 🛡 Blockchain & Smart Contract Security
+# 🛡 Blockchain & Smart Contract Security (Beginner)
 
-Security-first Web3 engineering:
-
-- Reentrancy protection (Checks-Effects-Interactions)  
-- Role-based access control  
-- Upgradeable proxy patterns  
-- Gas-efficient contract logic  
-- Flash-loan exploit awareness  
-- Front-running mitigation  
-- Signature replay protection  
-- Audit-style vulnerability modeling  
-
-Smart contracts are treated as immutable financial infrastructure.
+- Learning **Solidity** & Ethereum smart contracts  
+- Role-based access & upgradeable contracts  
+- ERC20 token experiments  
+- Gas optimization & security awareness  
+- Integrating Web3 wallets (MetaMask)  
+- Focused on **secure, efficient, and decentralized apps**  
 
 ---
 
-# 💰 DeFi Engineering Showcase
+# 💰 DeFi & Web3 Experiments
 
-### Decentralized Staking Platform
+**Projects in Progress:**
 
-- ERC20 staking contract  
-- Time-locked withdrawals  
-- Reward emission logic  
-- Gas-optimized distribution  
-- Web3 wallet authentication  
-- Event-driven UI updates  
-
-Architecture:
-
-Solidity → Next.js → Web3 Integration → Secure transaction handling  
-
-Focus: security, efficiency, predictable economics.
+- ERC20 token contracts & staking platforms  
+- Time-locked rewards & gas-optimized distribution  
+- Front-end integration with React / Next.js  
+- Event-driven UI updates and secure transaction handling  
+- Learning-oriented, but with real-world blockchain patterns  
 
 ---
 
-# 🧠 Engineering Philosophy
+# 🛠 Tech Stack
 
-1. Security > Speed  
-2. Architecture > Shortcuts  
-3. Scale must be designed  
-4. Simplicity over cleverness  
-5. Observability is mandatory  
-6. Assume failure & adversarial conditions  
+**Languages:** Python • JavaScript • TypeScript • SQL • Solidity  
 
----
+**Frontend:** React • Next.js • Tailwind • SCSS • Flutter  
 
-# 🛠 Technical Stack
+**Backend:** Node.js • FastAPI  
 
-**Languages**  
-Python • TypeScript • JavaScript • SQL • Solidity  
+**AI / ML:** PyTorch • TensorFlow • LangChain • OpenAI APIs • Vector Databases  
 
-**Frontend**  
-React • Next.js • Tailwind  
+**Blockchain / Web3:** Solidity • Web3.js • Ethers.js • Smart Contracts  
 
-**Backend**  
-Node.js • FastAPI  
-
-**AI / ML**  
-PyTorch • TensorFlow  
-LangChain • OpenAI APIs  
-Vector Databases  
-
-**Cloud & DevOps**  
-Docker • AWS • CI/CD  
+**Cloud & DevOps:** Docker • AWS • CI/CD  
 
 ---
 
-# 📊 Engineering Metrics
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Biky2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -146,15 +122,11 @@ Docker • AWS • CI/CD
 
 ---
 
-# 📡 Activity Graph
+# 📡 Activity & Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biky2&theme=react-dark&hide_border=true" />
 </p>
-
----
-
-# 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Biky2/Biky2/output/github-contribution-grid-snake-dark.svg" />
@@ -164,11 +136,11 @@ Docker • AWS • CI/CD
 
 # 💼 Open To
 
-- AI Systems Engineering  
-- Distributed Backend Infrastructure  
-- Blockchain Security Engineering  
-- DeFi Protocol Development  
-- High-scale product teams  
+- AI & LLM systems engineering  
+- Full-Stack & Next.js apps  
+- Blockchain & Web3 projects (beginner-friendly)  
+- DeFi / Smart Contract experiments  
+- High-scale, FAANG-ready systems  
 
 ---
 
@@ -178,13 +150,14 @@ Docker • AWS • CI/CD
   <a href="mailto:deobiky@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square" />
   </a>
+  <a href="https://github.com/Biky2">
+    <img src="https://img.shields.io/badge/GitHub-Connect-black?style=flat-square&logo=github" />
+  </a>
   <a href="https://www.linkedin.com/in/dev-biky/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" />
   </a>
 </p>
 
----
-
 <p align="center">
-Secure by design. Scalable by architecture. Built for real-world systems.
+Secure, Scalable & FAANG-Ready | AI • Full-Stack • Blockchain • Web3
 </p>
