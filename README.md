@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  <!-- Animated Neon Badges -->
+  <!-- Animated Neon FAANG-Ready Badges -->
   <img src="https://img.shields.io/badge/AI-Expert-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full-Stack-React%20Next.js-green?style=for-the-badge&logo=react&logoColor=white" />
+![Full-Stack Badge](https://img.shields.io/badge/Full--Stack-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   <img src="https://img.shields.io/badge/Blockchain-Learner-neon?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-Beginner-purple?style=for-the-badge&logo=solidity&logoColor=white" />
+
 </p>
 
 ---
@@ -20,7 +21,7 @@
 
 Hi, I’m **Biky Dev** 👋 — an **AI Systems Engineer & Full-Stack Developer**, exploring **Blockchain & Web3** while building **secure, scalable, and production-grade applications**.  
 
-I focus on creating **intelligent systems**, **distributed architectures**, and **modern web & mobile apps**.
+I focus on creating **intelligent systems**, **distributed architectures**, and **modern web & mobile apps**, with the goal of joining **FAANG-level engineering teams**.
 
 **Specialties & Focus Areas:**
 
@@ -39,7 +40,7 @@ I focus on creating **intelligent systems**, **distributed architectures**, and 
 - ⚙️ **Next.js & Frontend Optimization:** Performance-first, scalable architectures  
 - 📱 **Flutter Apps:** Beautiful, fast, cross-platform experiences  
 - ⛓ **Blockchain & Smart Contracts:** Solidity, ERC20, Web3.js/Ethers.js, DeFi experiments  
-- 📚 **Data Structures & Algorithms:** Problem-solving and coding fundamentals  
+- 📚 **Data Structures & Algorithms:** Problem-solving for FAANG readiness  
 
 ---
 
@@ -55,6 +56,7 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 - Structured logging & observability  
 - Intelligent caching & performance optimization  
 - Secure authentication & graceful degradation  
+- Designed for FAANG-level production systems  
 
 ---
 
@@ -77,7 +79,7 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 - Time-locked rewards & gas-optimized distribution  
 - Front-end integration with React / Next.js  
 - Event-driven UI updates and secure transaction handling  
-- Learning-oriented, but using real-world blockchain patterns  
+- Learning-oriented, but with real-world blockchain patterns  
 
 ---
 
@@ -100,15 +102,15 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biky2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Biky Dev's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Biky2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biky2&theme=tokyonight&hide_border=true&count_private=true" alt="Biky Dev's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biky2&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biky2&layout=compact&theme=tokyonight&hide_border=true" alt="Biky Dev's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biky2&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -116,7 +118,7 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biky2&theme=matrix&no-frame=true&margin-w=10" alt="Biky Dev's Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biky2&theme=matrix&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -124,11 +126,11 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 # 📡 Activity & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biky2&theme=react-dark&hide_border=true" alt="Biky Dev Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biky2&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Biky2/Biky2/output/github-contribution-grid-snake-dark.svg" alt="Biky Dev Contribution Snake Graph"/>
+  <img src="https://raw.githubusercontent.com/Biky2/Biky2/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -139,6 +141,7 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 - Full-Stack & Next.js apps  
 - Blockchain & Web3 projects (beginner-friendly)  
 - DeFi / Smart Contract experiments  
+- High-scale, FAANG-ready systems  
 
 ---
 
@@ -157,5 +160,5 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 </p>
 
 <p align="center">
-Secure, Scalable | AI • Full-Stack • Blockchain • Web3
+Secure, Scalable & FAANG-Ready | AI • Full-Stack • Blockchain • Web3
 </p>
