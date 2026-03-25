@@ -1,31 +1,29 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Biky%20Dev&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Blockchain%20Beginner&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Biky%20Dev&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Data%20Science%20%7C%20Full-Stack%20%7C%20Web3&descAlignY=60&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Secure.+Scalable.+Production-Grade.;AI+%7C+Full-Stack+%7C+Blockchain+%7C+Web3;Learning+Web3+&+Smart+Contracts."/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Secure.+Scalable.+Production-Grade.;AI+%7C+Data+Science+%7C+Full-Stack;Blockchain+%7C+Web3;Learning+Web3+%26+Smart+Contracts."/>
 </p>
 
 <p align="center">
-  <!-- Animated Neon FAANG-Ready Badges -->
-  <img src="https://img.shields.io/badge/AI-Expert-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_&_DS-Expert-blue?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Blockchain-Learner-neon?style=for-the-badge&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-Beginner-purple?style=for-the-badge&logo=solidity&logoColor=white" />
-
 </p>
 
 ---
 
 # 🧑‍💻 About Me
 
-Hi, I’m **Biky Dev** 👋 — an **AI Systems Engineer & Full-Stack Developer**, exploring **Blockchain & Web3** while building **secure, scalable, and production-grade applications**.  
+Hi, I’m **Biky Dev** 👋 — an **AI & Data Science Engineer & Full-Stack Developer**, exploring **Blockchain & Web3** while building **secure, scalable, and production-grade applications**.  
 
-I focus on creating **intelligent systems**, **distributed architectures**, and **modern web & mobile apps**, with the goal of joining **FAANG-level engineering teams**.
+I focus on creating **intelligent systems**, **data-driven distributed architectures**, and **modern web & mobile apps**, with the goal of joining **FAANG-level engineering teams**.
 
 **Specialties & Focus Areas:**
 
-- 🤖 **AI & Machine Learning:** LLMs, LangChain, RAG pipelines, TensorFlow, PyTorch  
+- 🤖 **AI, ML & Data Science:** LLMs, LangChain, RAG pipelines, TensorFlow, PyTorch, Predictive Modeling  
 - ⚛️ **Full-Stack Web Development:** React, Next.js, Node.js, TypeScript, Tailwind, SCSS  
 - 📱 **Flutter & Mobile Apps:** Cross-platform, high-performance UI/UX  
 - ⛓ **Blockchain & Web3:** Beginner in Solidity, smart contracts, Ethereum, DeFi  
@@ -36,6 +34,7 @@ I focus on creating **intelligent systems**, **distributed architectures**, and 
 # 🌟 Learning & Growth
 
 - 🧠 **AI & LLMs:** Model training, fine-tuning, and deployment  
+- 📊 **Advanced Data Science:** Statistical analysis, feature engineering, and data visualization  
 - 🧩 **RAG Systems & LangChain:** Intelligent knowledge retrieval  
 - ⚙️ **Next.js & Frontend Optimization:** Performance-first, scalable architectures  
 - 📱 **Flutter Apps:** Beautiful, fast, cross-platform experiences  
@@ -48,7 +47,7 @@ I focus on creating **intelligent systems**, **distributed architectures**, and 
 
 ### Scalable Full-Stack + AI Blueprint
 
-Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Orchestration → Vector DB → PostgreSQL → Async Workers  
+Client → Next.js Frontend → API Gateway → Node/FastAPI Services → Data Pipelines & Analytics → LLM Orchestration → Vector DB → PostgreSQL → Async Workers  
 
 **Core Principles:**
 
@@ -67,9 +66,7 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 - ERC20 token experiments  
 - Gas optimization & security awareness  
 - Integrating Web3 wallets (MetaMask)  
-- Focused on **secure, efficient, and decentralized apps**  
-
----
+- Focused on **secure, efficient, and decentralized apps** ---
 
 # 💰 DeFi & Web3 Experiments
 
@@ -91,7 +88,7 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 
 **Backend:** Node.js • FastAPI  
 
-**AI / ML:** PyTorch • TensorFlow • LangChain • OpenAI APIs • Vector Databases  
+**Data Science / AI / ML:** Pandas • NumPy • PyTorch • TensorFlow • LangChain • Scikit-Learn • Vector Databases  
 
 **Blockchain / Web3:** Solidity • Web3.js • Ethers.js • Smart Contracts  
 
@@ -141,7 +138,7 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 
 # 💼 Open To
 
-- AI & LLM systems engineering  
+- AI, Data Science & LLM systems engineering  
 - Full-Stack & Next.js apps  
 - Blockchain & Web3 projects (beginner-friendly)  
 - DeFi / Smart Contract experiments  
@@ -164,7 +161,7 @@ Client → Next.js Frontend → API Gateway → Node/FastAPI Services → LLM Or
 </p>
 
 <p align="center">
-Secure, Scalable & FAANG-Ready | AI • Full-Stack • Blockchain • Web3
+Secure, Scalable & FAANG-Ready | AI • Data Science • Full-Stack • Blockchain • Web3
 </p>
 
 
@@ -172,4 +169,4 @@ Secure, Scalable & FAANG-Ready | AI • Full-Stack • Blockchain • Web3
 ---
 
 ### 🏷️ Technical Focus & Expertise
-`ai` • `llm` • `python` • `flutter` • `langchain` • `freelancer` • `generative-ai` • `rag` • `nextjs` • `fullstack` • `blockchain` • `web3` • `solidity` • `react` • `typescript` • `smart-contracts` • `mobile-development` • `consultant` • `scalability` • `software-engineering`
+`ai` • `data-science` • `machine-learning` • `pandas` • `numpy` • `llm` • `python` • `flutter` • `langchain` • `generative-ai` • `rag` • `nextjs` • `fullstack` • `blockchain` • `web3` • `solidity` • `react` • `typescript` • `smart-contracts` • `mobile-development` • `scalability` • `software-engineering`
