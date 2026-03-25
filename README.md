@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Biky%20Dev&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Blockchain%20Beginner&descAlignY=60&descAlign=50" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Secure.+Scalable.+Production-Grade.;AI+%7C+Data+Science+%7C+Full-Stack;Blockchain+%7C+Web3;Learning+Web3+%26+Smart+Contracts."/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Secure.+Scalable.+Production-Grade.;AI+%7C+Full-Stack+%7C+Blockchain+%7C+Web3;Learning+Web3+&+Smart+Contracts."/>
