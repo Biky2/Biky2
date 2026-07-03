@@ -3,13 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real+AI+systems+that+ship.;Multi-Agent+LLMs+%7C+RAG+Pipelines+%7C+Computer+Vision;Python+%7C+FastAPI+%7C+LangGraph+%7C+PostgreSQL;May+2026+Graduate+%E2%80%94+Ready+to+contribute+from+day+one." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+real+AI+systems+that+ship.;Multi-Agent+LLMs+%7C+RAG+Pipelines+%7C+Computer+Vision;React+%7C+Next.js+%7C+FastAPI+%7C+Full-Stack;Python+%7C+LangGraph+%7C+PostgreSQL+%7C+Docker;May+2026+Graduate+%E2%80%94+Ready+from+day+one." />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -19,18 +21,18 @@
 
 ## 👋 About Me
 
-I'm **Biky Dev** — an AI engineer who builds things that actually run in production.
+I'm **Biky Dev** — an AI engineer and full-stack developer who builds things that actually run in production.
 
-I graduated in May 2026 with a B.Tech in Computer Science from Kurukshetra University. Over the past year I've shipped a face attendance system running at 30 FPS in live classrooms, built multi-agent LLM pipelines with real streaming, and trained custom CNNs from scratch on real agricultural datasets.
+I graduated in May 2026 with a B.Tech in Computer Science from Kurukshetra University. Over the past year I've shipped a face attendance system running at 30 FPS in live classrooms, built multi-agent LLM pipelines with real streaming, trained custom CNNs from scratch on real agricultural datasets, and built full-stack web applications with React and Next.js frontends backed by FastAPI.
 
-I care about writing clean Python, making systems that don't fall over, and understanding what's actually happening inside the models — not just calling APIs.
+I care about writing clean code, making systems that don't fall over, and building products where the AI backend and the user interface work together — not just the model in isolation.
 
-**What I work with day to day:**
-- Python, FastAPI, LangChain, LangGraph, LangSmith
-- PyTorch, TensorFlow, Keras, Hugging Face
-- PostgreSQL, Redis, FAISS, Pinecone
-- OpenCV, MTCNN, ONNX
-- Docker, AWS, Git
+**What I work with:**
+- **AI / ML:** Python, PyTorch, TensorFlow, Keras, Hugging Face, ONNX, OpenCV
+- **LLMs & RAG:** LangChain, LangGraph, Llama 3.2, FAISS, Pinecone, BERT
+- **Backend:** FastAPI, Node.js, PostgreSQL, Redis, MongoDB
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Infrastructure:** Docker, AWS, Git, CI/CD
 
 ---
 
@@ -69,6 +71,20 @@ Custom CNN architecture trained from scratch (no pretrained backbone) on a 15-cl
 Built during my role at LearnXChain. Real-time biometric attendance system running at 30 FPS using OpenCV and MTCNN face detection, improving verification accuracy by 25%. Multi-threaded inference pipeline with a concurrent FastAPI backend persisting session logs to PostgreSQL, supporting 100+ concurrent users.
 
 `Python` `OpenCV` `MTCNN` `FastAPI` `PostgreSQL` `Multi-threading`
+
+---
+
+### 🌐 Full-Stack Web Projects
+
+I build the frontend too — not just APIs. My full-stack work uses React and Next.js on the frontend connected to Python/FastAPI or Node.js backends. The AI projects above all ship with real UIs: the RAGChat chatbot, the multi-agent orchestrator dashboard, and the CropGuard frontend are all built and live.
+
+**Frontend stack I use:**
+
+`React` `Next.js` `TypeScript` `Tailwind CSS` `JavaScript` `HTML/CSS`
+
+**Backend stack I pair it with:**
+
+`FastAPI` `Node.js` `PostgreSQL` `Redis` `MongoDB` `REST APIs` `SSE` `WebSockets`
 
 ---
 
@@ -116,11 +132,13 @@ Built during my role at LearnXChain. Real-time biometric attendance system runni
 
 ## 🏆 Highlights
 
-- 🔥 Built and shipped 3 production AI projects in 2025-2026
-- 🤖 Multi-agent LLM system with real-time SSE streaming live on GitHub
-- 🌿 Custom CNN trained from scratch — 90%+ accuracy, deployed to edge
-- 📷 Computer Vision system running at 30 FPS in a live classroom
-- 🎓 B.Tech Computer Science, Kurukshetra University — May 2026
+- 🚀 Shipped 3 production AI systems — all live, all on GitHub
+- 🤖 Multi-agent LLM orchestrator with LangGraph, real-time SSE streaming, dual-layer memory
+- 🗂️ RAG chatbot with hybrid retrieval (dense + sparse), citation tracking, 60% fewer irrelevant responses
+- 🌿 Custom CNN from scratch — 90%+ accuracy, 40% faster after ONNX quantization, edge-ready
+- 📷 Computer Vision pipeline running at 30 FPS in a live classroom environment
+- 🌐 Full-stack developer — React/Next.js frontends connected to Python/FastAPI backends
+- 🎓 B.Tech Computer Science, Kurukshetra University — Graduated May 2026
 
 ---
 
@@ -128,7 +146,8 @@ Built during my role at LearnXChain. Real-time biometric attendance system runni
 
 - AI engineering and LLM systems roles
 - Computer Vision and ML engineering
-- Full-stack roles with Python/FastAPI backend
+- Full-stack engineering (AI backend + React/Next.js frontend)
+- Backend engineering with Python/FastAPI
 - Research engineering positions
 
 ---
