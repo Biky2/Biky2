@@ -114,11 +114,13 @@ Built during my role at LearnXChain. Real-time biometric attendance system runni
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biky2&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
-</p>
+- 🔥 Built and shipped 3 production AI projects in 2025-2026
+- 🤖 Multi-agent LLM system with real-time SSE streaming live on GitHub
+- 🌿 Custom CNN trained from scratch — 90%+ accuracy, deployed to edge
+- 📷 Computer Vision system running at 30 FPS in a live classroom
+- 🎓 B.Tech Computer Science, Kurukshetra University — May 2026
 
 ---
 
