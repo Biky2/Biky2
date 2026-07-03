@@ -137,7 +137,7 @@ I build the frontend too — not just APIs. My full-stack work uses React and Ne
 - 🗂️ RAG chatbot with hybrid retrieval (dense + sparse), citation tracking, 60% fewer irrelevant responses
 - 🌿 Custom CNN from scratch — 90%+ accuracy, 40% faster after ONNX quantization, edge-ready
 - 📷 Computer Vision pipeline running at 30 FPS in a live classroom environment
-- 🌐 Full-stack developer — React/Next.js frontends connected to Python/FastAPI backends
+- 🌐 Full-stack developer — React/Next.js frontends connected to Python/FastAPI backends,node js
 - 🎓 B.Tech Computer Science, Kurukshetra University — Graduated May 2026
 
 ---
