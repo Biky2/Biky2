@@ -59,7 +59,7 @@ Enterprise document chatbot with hybrid dense + sparse retrieval (Reciprocal Ran
 
 Custom CNN architecture trained from scratch (no pretrained backbone) on a 15-class crop disease dataset covering Pepper, Potato, and Tomato. Achieved 90%+ classification accuracy. Exported to ONNX and applied post-training quantization, cutting inference latency by 40% for edge deployment. Fused tabular metadata with XGBoost alongside the vision model to improve diagnostic confidence.
 
-`Python` `TensorFlow` `Keras` `ONNX` `XGBoost` `Scikit-Learn` `Computer Vision`
+`Python` `TensorFlow` `Keras` `ONNX`  `Scikit-Learn` `Computer Vision`
 
 ---
 
@@ -117,7 +117,7 @@ Built during my role at LearnXChain. Real-time biometric attendance system runni
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biky2&theme=matrix&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Biky2&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
 </p>
 
 ---
